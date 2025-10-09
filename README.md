@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Oluwakemi Akindele</h1>
+<h1 align="center">Hello World, I'm Oluwakemi Akindele</h1>
 <h3 align="center">Software Engineer | Frontend Heavy (React + Next.js) | Problem Solver</h3>
 
 ---
